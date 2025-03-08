@@ -48,6 +48,10 @@ author:
 
 
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-PCG1DS98FN"
 
 
 plugins:
