@@ -1,0 +1,12 @@
+.author__avatar img {
+    border-radius: 50%; /* Ensures a circular shape */
+    width: 100px; /* Adjust size as needed */
+    height: 100px; /* Ensure width and height are equal */
+    object-fit: cover; /* Prevents image distortion */
+}
+
+body {
+    background: url('https://source.unsplash.com/1920x1080/?stars,night-sky') no-repeat center center fixed;
+    background-size: cover;
+    color: white; /* Ensures text is visible */
+}

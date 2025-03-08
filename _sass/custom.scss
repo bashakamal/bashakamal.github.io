@@ -1,0 +1,20 @@
+.author__avatar {
+    width: 220px !important; /* Increased size */
+    height: 330px !important; /* Adjusted for your 391x869 aspect ratio */
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    overflow: hidden;
+    margin-left: -50px; /* Keep the left shift */
+    padding: 0;
+    background: none;
+}
+
+.author__avatar img {
+    width: 110%; /* Slightly enlarged */
+    height: 110%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 0;
+    display: block;
+}

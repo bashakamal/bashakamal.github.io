@@ -1,0 +1,6 @@
+.author__avatar img {
+    border-radius: 50%; /* Ensures a circular shape */
+    width: 100px; /* Adjust size as needed */
+    height: 100px; /* Ensure width and height are equal */
+    object-fit: cover; /* Prevents image distortion */
+}

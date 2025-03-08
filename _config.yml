@@ -1,0 +1,50 @@
+title: "Kamal Basha"
+# subtitle: "AI & ML Researcher"
+name: "Kamal"
+description: "Welcome to my portfolio showcasing my projects, research, and blogs."
+url: "https://bashakamal.github.io/"  # Change this to your actual GitHub Pages URL
+baseurl: ""  # Leave blank if deploying to root
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"  # Choose a skin: "default", "dark", "air", "sunrise", etc.
+
+# Navigation (Remove Quick-Start Guide)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Experience"
+    url: "/experience/"
+  - title: "Publications"
+    url: "/publications/"
+    
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+
+# Author settings
+author:
+  name: "Kamal Basha"
+  avatar: "/assets/images/basha1.jpg" 
+  home: "/"  # Add your image in `assets/images/`
+  bio: "AI & ML Researcher, Oil & Gas Expertise"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/bashakamal"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/kamal-basha-a51a8715b/"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:bashakamal95@gmail.com"
+
+
+
+
+plugins:
+  - jekyll-include-cache
