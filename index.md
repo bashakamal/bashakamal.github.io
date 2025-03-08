@@ -8,7 +8,7 @@ author_profile: true
 
 <p>I'm an experienced <strong>Oil & Gas professional turned AI & Machine Learning researcher</strong>, specializing in <strong>industrial AI, defense applications, and data science</strong>.</p>
 
-<p>Currently, I am a <strong>Junior Research Fellow (JRF) at SRM Institute of Science and Technology</strong>, working on a <strong>DRDO-funded project</strong> focused on <strong>Explainable AI (XAI) for sonar image detection and classification</strong>. My research, advised by <a href="https://www.srmist.edu.in/faculty/dr-athira-m-nambiar/" target="_blank"><strong>Dr. Athira. M. Nambiar</strong></a>, aims to enhance <strong>AI-driven defense solutions</strong>, improve <strong>model interpretability</strong>strong>, and advance <strong>sonar image analysis techniques</strong>strong> for autonomous systems.</p>
+<p>Currently, I am a <strong>Junior Research Fellow (JRF) at SRM Institute of Science and Technology</strong>, working on a <strong>DRDO-funded project</strong> focused on <strong>Explainable AI (XAI) for sonar image detection and classification</strong>. My research, advised by <a href="https://www.srmist.edu.in/faculty/dr-athira-m-nambiar/" target="_blank"><strong>Dr. Athira. M. Nambiar</strong></a>, aims to enhance <strong>AI-driven defense solutions</strong>, improve <strong>model interpretability</strong>, and advance <strong>sonar image analysis techniques</strong> for autonomous systems.</p>
 
 <p>Previously, I worked as a <strong>Machine Learning Data Associate at Amazon</strong>, contributing to <strong>machine learning model development</strong>, handling <strong>large-scale datasets, annotation tasks, and data preprocessing</strong> to enhance AI-driven products.</p>
 
