@@ -56,3 +56,4 @@ analytics:
 
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
