@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bashakamal.github.io/sitemap.xml
