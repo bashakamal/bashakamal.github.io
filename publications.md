@@ -16,7 +16,7 @@ permalink: /publications/
 </style>
 
 ## Publications  
-- **2024**: *S3Simulator: A Benchmarking Side Scan Sonar Simulator Dataset for Underwater Image Analysis*, accepted by the International Conference on Pattern Recognition (ICPR).  
+- **2024**: *S3Simulator: A Benchmarking Side Scan Sonar Simulator Dataset for Underwater Image Analysis*, S. Kamal Basha & Athira Nambiar, accepted by the International Conference on Pattern Recognition (ICPR).  
   [Link](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_15)  
 
 ## Certifications  
