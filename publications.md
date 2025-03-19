@@ -16,8 +16,9 @@ permalink: /publications/
 </style>
 
 ## Publications  
-- **2024**: *S3Simulator: A Benchmarking Side Scan Sonar Simulator Dataset for Underwater Image Analysis*, S. Kamal Basha & Athira Nambiar, accepted by the International Conference on Pattern Recognition (ICPR).  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_15)  
+- **2025**: *S3Simulator: A Benchmarking Side Scan Sonar Simulator Dataset for Underwater Image Analysis*, S. Kamal Basha & Athira Nambiar, accepted by the International Conference on Pattern Recognition (ICPR).  
+  [Link](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_15)
+- **2025** *Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis*, Kamal Basha S, Athira Nambiar accepted by International Conference on AI for the Oceans (ICAIO). 
 
 ## Certifications  
 - **Post Graduate Program in Artificial Intelligence and Machine Learning** - [View Certificate](https://eportfolio.mygreatlearning.com/kamalbasha)  
