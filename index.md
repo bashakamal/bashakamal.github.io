@@ -7,19 +7,19 @@ author_profile: true
 
 <div style="font-size: 14px; line-height: 1.5; text-align: justify; font-family: 'Times New Roman', Times, serif;">
 
-<p>I'm an experienced <strong>Oil & Gas professional turned AI & Machine Learning researcher</strong>, specializing in <strong>industrial AI, defense applications, and data science</strong>.</p>
+<p>I'm an <strong>AI researcher working on underwater perception</strong>. I build <strong>physics-informed digital twins</strong> and <strong>reinforcement learning</strong> methods that help sonar AI systems work reliably when real data is scarce. My background spans heavy industry, applied machine learning, and defence research.</p>
 
-<p>Currently, I am a <strong>Junior Research Fellow (JRF) at SRM Institute of Science and Technology</strong>, working on a <strong>DRDO-funded project</strong> focused on <strong>Explainable AI (XAI) for sonar image detection and classification</strong>. My research, advised by <a href="https://www.srmist.edu.in/faculty/dr-athira-m-nambiar/" target="_blank"><strong>Dr. Athira. M. Nambiar</strong></a>, aims to enhance <strong>AI-driven defense solutions</strong>, improve <strong>model interpretability</strong>, and advance <strong>sonar image analysis techniques</strong> for autonomous systems.</p>
+<p>I am currently pursuing a <strong>Ph.D. in Computer Science and Engineering at SRM Institute of Science and Technology</strong>, advised by <a href="https://www.srmist.edu.in/faculty/dr-athira-m-nambiar/" target="_blank"><strong>Dr. Athira M. Nambiar</strong></a>. My thesis addresses the <strong>sim-to-real gap in underwater sonar imaging</strong>. It combines physics-based sonar simulation, digital twins, generative domain translation, and RL-driven adaptive data selection so that models trained largely on synthetic data transfer to real sea conditions.</p>
 
-<p>Previously, I worked as a <strong>Machine Learning Data Associate at Amazon</strong>, contributing to <strong>machine learning model development</strong>, handling <strong>large-scale datasets, annotation tasks, and data preprocessing</strong> to enhance AI-driven products.</p>
+<p>Before my Ph.D., I <strong>successfully delivered a DRDO-funded research project</strong> on AI for sonar image detection and classification. On that project I built <strong>S3Simulator</strong>, a benchmark side-scan sonar simulator and dataset (ICPR 2024), and followed it with <strong>PS3Simulator</strong> (MaCVi Workshop @ CVPR 2026). My work has appeared at venues including <strong>CVPR workshops, ICPR, ICIP, OCEANS, and JASA</strong>, and I mentor interns working on generative sonar augmentation.</p>
 
-<p>Before transitioning into AI, I worked in the <strong>Oil & Gas industry</strong>, managing <strong>shutdowns, maintenance, and risk mitigation</strong> while ensuring operational efficiency. This background helped me develop <strong>leadership, analytical, and decision-making skills</strong> in high-pressure environments.</p>
+<p>Earlier, I was a <strong>Machine Learning Data Associate at Amazon</strong>. There I worked on large-scale data pipelines, annotation quality, and Python automation that reduced report generation from hours to seconds.</p>
 
-<p>My passion lies in <strong>AI research, computer vision, and real-world machine learning applications</strong>. With a <strong>multidisciplinary background</strong>, I aim to bridge the gap between <strong>research and industry</strong>, particularly in <strong>defense, surveillance, and autonomous systems</strong>.</p>
+<p>I started my career in <strong>Oil &amp; Gas</strong>, supervising refinery shutdowns, piping, and maintenance for <strong>Chennai Petroleum Corporation Limited (CPCL)</strong> in India and <strong>Bahrain Petroleum Company (BAPCO)</strong> in Bahrain. That field experience shapes how I do research: I care about systems that hold up in harsh, safety-critical, real-world environments.</p>
 
-<p>I hold a <strong>Master of Science (M.S.) in Data Science from Deakin University</strong>, a <strong>Post Graduate Program in AI & ML from The University of Texas at Austin</strong>, and a <strong>Bachelor’s degree in Mechanical Engineering from Anna University, Chennai</strong>.</p>
+<p>I hold an <strong>M.S. in Data Science from Deakin University</strong>, a <strong>PG Program in AI &amp; ML from The University of Texas at Austin</strong>, and a <strong>B.E. in Mechanical Engineering from Anna University, Chennai</strong>.</p>
 
-<p>I'm always eager to collaborate on cutting-edge AI research and innovative projects. <strong>Feel free to connect with me!</strong></p>
+<p><strong>Open to collaborations</strong> with industry and research labs in <strong>underwater and maritime autonomy, defence AI, sim-to-real learning, and digital twins</strong>. Feel free to reach out.</p>
 
 </div>
 
